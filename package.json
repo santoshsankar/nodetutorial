@@ -1,0 +1,22 @@
+{
+	"name": "hello-world",
+	"version": "0.0.1",
+	"description": "Hello World example app",
+	"main": "helloworld.js",
+	"scripts": {
+		"start": "node helloworld.js"
+	},
+	"dependencies": {
+	},
+	"engines": {
+		"node": "4.4.5"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/manuelkiessling/nodebeginnerbook-manuscript"
+	},
+	"keywords": [
+		"node"
+	],
+	"license": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License"
+}
